@@ -5,6 +5,10 @@ local line added
 
 This is testt edited for conflicts
 merged.
+<<<<<<< HEAD
 new line inmaster
-
+=======
+new line test
+>>>>>>> testBranch
+kep both
 
